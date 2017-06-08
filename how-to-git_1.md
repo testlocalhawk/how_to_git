@@ -76,10 +76,33 @@ git commit // git commit -m "add: class making icecream, renamed class containin
 
 - Sharing your work - practical
 	- first practial no merge conflicts
+
+// update the changes we have made to the repository
+
+git pull // oppdaterer vårt lokale repo med endringer som er pushet siden vår siste pull på origin/master
+
+git push // oppdaterer origin repo med de endringene vi har commitet lokalt (VIKTIG - arbeid som ikke er pushet er arbeid som vil gå tapt)
+
+
+
+### Oppgave 2:
+ 	  a) Tegne utvidelse av workflow, med lokal og origin repo.
+          b) utvide cheatsheet med git origin kommandoer og betydning
+
+
 	- second practial merge conflicts
+	   - Merging explanation
+
+	   - merging exercise
+
+
+
+-- Ferdig for idag - imorgen skal vi gjøre en 15 min git øvelse. 
 
 
 -- end of first git intro course
+
+
 
 
 
